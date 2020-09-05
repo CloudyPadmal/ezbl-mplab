@@ -1,3 +1,8 @@
+MPLAB IDE version: 5.40
+
+XC16 Compiler version 1.60
+
+
 ```
 CLEAN SUCCESSFUL (total time: 88ms)
 make -f nbproject/Makefile-default.mk SUBPROJECTS= .build-conf
